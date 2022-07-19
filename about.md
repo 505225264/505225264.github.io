@@ -5,13 +5,13 @@ permalink: /about/
 ---
 
 ## 关于我
-你好，我是程序员柠檬。
+你好，我是交易员【比特币大雕哥——金峰】。
 
-国内一线互联网大厂计算机软件工程师、[知乎](https://www.zhihu.com/people/ning-meng-cheng-31-94)编程领域万赞答主。
+一流金融交流社群[Discord](https://discord.gg/Sdr33MPeAa)、加密货币交易领域专业博主。
 
-[个人技术公众号](https://mp.weixin.qq.com/mp/homepage?__biz=MzkwOTE2OTY1Nw==&hid=1&sn=6395e40d884ce4dd3900a68a0f5a6b87&scene=18#wechat_redirect)分享编程学习路线、编程学习资源，记录技术成长，欢迎扫码添加：
+分享交易系统学习路线、技术分析学习资源，记录技术成长，欢迎扫码添加：
 
-![公众号二维码](https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png)
+![微信二维码](https://github.com/505225264/505225264.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720220719194421.jpg)
 
 
 
