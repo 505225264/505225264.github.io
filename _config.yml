@@ -14,7 +14,7 @@ description: "个人技术微信号：交易员【比特币大雕哥】  分享�
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/505225264/505225264.github.io/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E8%AE%BE%E8%AE%A1.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: 
+favicon: https://github.com/505225264/505225264.github.io/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E8%AE%BE%E8%AE%A1.png
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -44,18 +44,18 @@ footer-links:
   facebook:
   flickr:
   github: 
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: 
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  tumblr: # https://<username>.tumblr.com
-  #twitter: frommidworld
+  rss: 
+  stackoverflow:
+  tumblr: 
+  #twitter: 
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+footer-text: Copyright (c) 2022 比特币大雕哥
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -78,15 +78,15 @@ url: https://505225264.github.io
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
+# then add in the baseurl here, like this: ""
 # baseurl: 
 
 #
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
-paginate_path: /page:num/
+permalink: 
+paginate_path: 
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
