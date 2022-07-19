@@ -11,7 +11,7 @@ permalink: /about/
 
 分享交易系统学习路线、技术分析学习资源，记录技术成长，欢迎扫码添加：
 
-![微信二维码](https://github.com/505225264/505225264.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720220719194421.jpg)
+![微信二维码]([https://github.com/505225264/505225264.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720220719194421.jpg])
 
 
 
