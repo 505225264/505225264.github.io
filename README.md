@@ -12,5 +12,5 @@
 
 **专注交易系统搭建以及交易，包含各类交易系统学习路线，让你在交易路上少走弯路**
 
-![微信二维码](https://github.com/505225264/505225264.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720220719194421.jpg)
+![微信二维码](https://github.com/505225264/505225264.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720220719194421.jpg)；
 
